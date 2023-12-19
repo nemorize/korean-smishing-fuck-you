@@ -8,6 +8,19 @@
 
 ## B
 
+### boramd.co.kr
+> 2023-12-20 기준 스미싱 페이지는 `https://boramd.co.kr/cs` 으로 접속해야 출력되며,<br />
+> 인덱스 페이지는 **실제 존재하는 병원**의 장례식장 웹사이트를 포워딩하고 있음.
+
+`초대장` `부고` `부친` `병원`<br />
+부고와 함께 장례식장 장소 및 시간을 확인하기 위해 앱을 설치하도록 하는 유형.<br />
+<details>
+  <summary>이미지 보기</summary>
+  <div>
+    <img src="./images/boramd.co.kr/001.png" width="240" />
+  </div>
+</details>
+
 ## C
 
 ## D
