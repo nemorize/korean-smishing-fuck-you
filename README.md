@@ -36,6 +36,16 @@
   </div>
 </details>
 
+### koreaboram.com
+`플레이스토어` `정부` `교통민원`<br />
+플레이스토어와 그에 등록된 교통민원24 앱을 사칭하여 해킹 앱을 설치하도록 하는 유형.<br />
+<details>
+  <summary>이미지 보기</summary>
+  <div>
+    <img src="./images/koreaboram.com/001.png" width="240" />
+  </div>
+</details>
+
 ## L
 
 ## M
