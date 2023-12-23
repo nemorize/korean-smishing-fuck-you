@@ -80,13 +80,25 @@
   </div>
 </details>
 
-### koreaboram.com
+### koreaboram.com (1)
+> 2023-12-23 기준 다른 형태의 스미싱 페이지로 변경되었습니다. (2) 항목을 참고하세요.
+
 `플레이스토어` `정부` `교통민원`<br />
 플레이스토어와 그에 등록된 교통민원24 앱을 사칭하여 해킹 앱을 설치하도록 하는 유형.<br />
 <details>
   <summary>이미지 보기</summary>
   <div>
     <img src="./images/koreaboram.com/001.png" width="240" />
+  </div>
+</details>
+
+### koreaboram.com (2)
+`초대장` `부고` `장례식`<br />
+부고와 함께 장례식장 장소 및 시간을 확인하기 위해 앱을 설치하도록 하는 유형.<br />
+<details>
+  <summary>이미지 보기</summary>
+  <div>
+    <img src="./images/koreaboram.com/002.png" width="240" />
   </div>
 </details>
 
