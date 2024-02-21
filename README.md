@@ -184,6 +184,16 @@
 
 ## U
 
+### u0su.one
+`정부` `교통민원`<br />
+과태료, 범칙금 통지서를 확인하기 위해 앱을 설치하도록 하는 유형.<br />
+<details>
+  <summary>이미지 보기</summary>
+  <div>
+    <img src="./images/u0su.one/001.png" width="240" />
+  </div>
+</details>
+
 ## V
 
 ## W
