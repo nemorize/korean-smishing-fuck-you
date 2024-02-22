@@ -35,6 +35,16 @@
   </div>
 </details>
 
+### bxxg3653.com
+`초대장` `부고` `장례식`<br />
+부고와 함께 장례식장 장소 및 시간을 확인하기 위해 앱을 설치하도록 하는 유형.<br />
+<details>
+  <summary>이미지 보기</summary>
+  <div>
+    <img src="./images/bxxg3653.com/001.png" width="240" />
+  </div>
+</details>
+
 ## C
 
 ## D
