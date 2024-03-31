@@ -232,6 +232,19 @@
   </div>
 </details>
 
+### samgabugo.com
+> 2023-04-01 기준 특정 서브도메인 없이는 접속할 수 없습니다. 현재까지 파악된 서브도메인은 `cards.samgabugo.com` 가 있습니다.
+
+`안드로이드` `초대장` `부고` `장례식`<br />
+**안드로이드가 아닌 플랫폼(PC, 맥, iOS 등)에서는 접속되지 않도록 하는 기능을 포함함.**<br />
+부고와 함께 장례식장 장소 및 시간을 확인하기 위해 앱을 설치하도록 하는 유형.<br />
+<details>
+  <summary>이미지 보기</summary>
+  <div>
+    <img src="./images/samga.store/001.png" width="240" />
+  </div>
+</details>
+
 ## T
 
 ## U
