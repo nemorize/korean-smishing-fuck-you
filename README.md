@@ -233,7 +233,7 @@
 </details>
 
 ### samgabugo.com
-> 2023-04-01 기준 특정 서브도메인 없이는 접속할 수 없습니다. 현재까지 파악된 서브도메인은 `cards.samgabugo.com` 가 있습니다.
+> 2023-04-01 기준 특정 서브도메인 없이는 접속할 수 없습니다. 현재까지 파악된 서브도메인은 `cards.samgabugo.com`, `appsko.samgabugo.com`, `bugom.samgabugo.com` 가 있습니다.
 
 `안드로이드` `초대장` `부고` `장례식`<br />
 **안드로이드가 아닌 플랫폼(PC, 맥, iOS 등)에서는 접속되지 않도록 하는 기능을 포함함.**<br />
