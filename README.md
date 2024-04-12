@@ -77,6 +77,18 @@
   </div>
 </details>
 
+### gunzhe.info
+> 2023-04-13 기준 특정 서브도메인 없이는 접속할 수 없습니다. 현재까지 파악된 서브도메인은 `yid.gunzhe.info` 가 있습니다.
+
+`정부` `정부24`<br />
+폐기물관리법 위반 고지 확인을 위한 사기 웹사이트 접속을 유도하여 휴대전화 번호를 수집하는 유형.<br />
+<details>
+  <summary>이미지 보기</summary>
+  <div>
+    <img src="./images/gunzhe.info/001.png" width="240" />
+  </div>
+</details>
+
 ## H
 
 ## I
